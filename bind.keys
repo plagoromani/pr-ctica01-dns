@@ -24,7 +24,7 @@
 # be obtained from ISC at https://www.isc.org/bind-keys.
 #
 # See https://data.iana.org/root-anchors/root-anchors.xml for current trust
-# anchor information for the root zone.
+# anchor information for the root zones.
 
 trust-anchors {
         # This key (20326) was published in the root zone in 2017.
