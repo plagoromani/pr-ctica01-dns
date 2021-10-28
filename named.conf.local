@@ -3,12 +3,12 @@
 //
 zone "example.com" {
     type master;
-    file "/volume/db.example.com";
+    file "/etc/bind/db.example.com";
 };
 
 zone "0.21.172.in-addr.arpa" {
     type master;
-    file "/volume/db.172";
+    file "/etc/bind/db.172";
 };
 
 // Consider adding the 1918 zones here, if they are not used in your
