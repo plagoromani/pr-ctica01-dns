@@ -10,6 +10,6 @@ $TTL	604800
 			 604800 )	; Negative Cache TTL
 ;
 @	IN	NS	ns.example.com.
-@	IN	A	172.21.0.2
+@	IN	A	172.21.0.3
 @	IN	AAAA	::1
-ns	IN 	A 		172.21.0.2
+ns	IN 	A 		172.21.0.3
